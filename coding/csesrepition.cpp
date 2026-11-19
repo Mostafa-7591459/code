@@ -15,7 +15,7 @@ int main()
         ct++;
       }
       else{
-        ct=0;
+        ct=1;
       }
       if(ct>best)
       {
